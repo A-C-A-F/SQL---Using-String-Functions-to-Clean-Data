@@ -1,4 +1,4 @@
-# SQL---Using-String-Functions-to-Clean-Data
+# SQL String Functions
 Using SQL String Functions to Clean Data
 
 This project is for people who are interested in creating and manipulating data in a database, that is, retrieving data from a database to get summaries and insights using SQL.
